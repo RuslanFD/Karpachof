@@ -125,6 +125,22 @@ header {
 	left: 246px;
 	top: 758px;
 }
+.menu_2 {
+	box-sizing: border-box;
+	position: absolute;
+	width: 1110px;
+	height: 203px;
+	left: 246px;
+	top: 1000px;
+}
+.menu_3 {
+	box-sizing: border-box;
+	position: absolute;
+	width: 1110px;
+	height: 203px;
+	left: 246px;
+	top: 1242px;
+}
 .menu_name {
 	font-size: 24px;
 	line-height: 29px;
@@ -147,4 +163,14 @@ header {
 }
 .menu_end_date {
 	color: #FE8907;
+}
+footer {
+	position: absolute;
+	width: 1600px;
+	height: 350px;
+	top: 2151px;
+	background: #0099DD;
+}
+li {
+	list-style-type: none;
 }
